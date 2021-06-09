@@ -15,7 +15,7 @@
 ## Snapshot from the game
 ![üçüncü resim](https://github.com/emnakyz/HacilarSurvival/blob/main/resim/image3.PNG)
 
-Language and program used 
--C# and Unity
+## Language and program used 
+- C# and Unity
 
 @emnakyz :+1:  
