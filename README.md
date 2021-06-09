@@ -20,4 +20,4 @@
 ## Project Team
 - Muhammet Emin Akyüz
 - Veysel Hacı Hazar
-@emnakyz :+1:  
+ :+1:  
