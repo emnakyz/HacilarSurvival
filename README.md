@@ -17,5 +17,7 @@
 
 ## Language and program used 
 - C# and Unity
-
+## Project Team
+- Muhammet Emin Akyüz
+- Veysel Hacı Hazar
 @emnakyz :+1:  
